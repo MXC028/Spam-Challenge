@@ -14,4 +14,4 @@
 <p>Run <pre>npm i</pre> inside the <b>spam-challenge</b> directory. </p>
 <p>Then run <pre>npm start</pre> inside the <b>spam-challenge</b> directory. This will start our app!</p>
 
-<h4>Your're done!</h4>
+<h4>You're done!</h4>
