@@ -1,0 +1,55 @@
+ .App {
+  margin: 4%;
+  margin-top: 2%;
+ }
+
+ .container {
+   border: 1px solid #000;
+   width: 100%;
+ }
+
+ .section {
+   border-bottom: 1px solid #000;
+ }
+
+ .ulContainer {
+   list-style-type: none;
+   
+ }
+
+ .detailsStyling {
+  text-decoration: underline; 
+  color: #0000EE;  
+  cursor: pointer; 
+  overflow: hidden;
+ }
+
+ .list {
+   margin-bottom: 1%;
+ }
+
+ .columns {
+   width: 33%;
+   display: inline-block;
+   vertical-align: top;
+ }
+
+ .buttonStyles {
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   border-radius: 3px;
+   border: 1px solid #000;
+   width: 60%;
+   background-color: #e6e6e6;
+   text-align: center;
+   cursor: pointer;
+   margin-top: 10px;
+   font-size: large;
+ }
+
+ .noMessage {
+   font-style: italic;
+   margin-left: 1%;
+ }
